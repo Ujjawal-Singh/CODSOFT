@@ -1,7 +1,7 @@
 # CODSOFT
 All the Tasks and Projects done during the internship with CODSOFT have been uploaded here.
 
-# TASK 1
+# TASK 1 - Rule-Based Chatbot
 
+Developed a Rule-Based Chatbot using NLTK (Natural Language Toolkit) which deals with NLP(Natural Language Processing) applications, one of the primary applications being Chatbot development
 
-Build a simple chatbot that responds to user inputs based on predefined rules using if-else statements or pattern matching techniques to identify user queries and provide appropriate responses.
