@@ -11,3 +11,9 @@ This project is an implementation of the classic game of Tic-Tac-Toe, where you 
 
 # TASK 3 - Book Recommendations System
 
+a straightforward yet effective recommendation system designed to offer personalized book suggestions to users based on their preferences. The system leverages advanced techniques like collaborative filtering and content-based filtering to provide tailored book recommendations.
+
+KEY FEATURES
+1. Collaborative Filtering: Collaborative filtering is a technique that analyzes user behavior and interactions. It identifies patterns and similarities between users to recommend books based on what similar users have read and enjoyed. This ensures that users receive book suggestions that align with their tastes.
+
+2. Content-Based Filtering: Content-based filtering takes into account the attributes and characteristics of books, such as genres, authors, themes, and summaries. It matches these attributes with user preferences to recommend books that share similar characteristics with what the user has previously liked.
